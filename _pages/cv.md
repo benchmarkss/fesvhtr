@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc(Eng). in Queen Mary University of London, 2024 (expected)
+* BBA. in Beijing University of Posts and Telecommunication, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Autumn 2023 - present: Research Intern
+  * MMLab@NTU
+  * FunQA: Towards Surprising Video Comprehension
+  * Video Question Answering, VLMs
+  * Supervisor: Prof. Ziwei Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022 - present: Research Intern
+  * Cyberspace Sercurity School, BUPT
+  * Sarcasm Detection, Anomaly Detection, Multimodal Benchmarking
+  * Supervisor: Prof. Guoshun Nan
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+Work Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spring 2023 - present: Full-stack Engineer (intern)
+  * CNPC (China Petroleum Planning and Engineering Institute)
+* Fall 2022 - Spring 2023: Extranet maintenance engineer (intern)
+  * Siemens Ltd. China
+
+
