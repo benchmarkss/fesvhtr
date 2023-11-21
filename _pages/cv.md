@@ -11,20 +11,15 @@ redirect_from:
 
 Education
 ======
-* BSc(Eng). in Queen Mary University of London, 2024 (expected)
-* BBA. in Beijing University of Posts and Telecommunication, 2024 (expected)
+* BSc(Eng). in **Queen Mary University of London**, 2024 (expected)
+* BBA. in **Beijing University of Posts and Telecommunication**, 2024 (expected)
 
 Research experience
 ======
-* Autumn 2023 - present: Research Intern
-  * MMLab@NTU
-  * FunQA: Towards Surprising Video Comprehension
-  * Video Question Answering, VLMs
+* Autumn 2023 - present: Research Intern in MMLab@NTU
   * Supervisor: Prof. Ziwei Liu
 
-* Fall 2022 - present: Research Intern
-  * Cyberspace Sercurity School, BUPT
-  * Sarcasm Detection, Anomaly Detection, Multimodal Benchmarking
+* Fall 2022 - present: Research Intern in BUPT
   * Supervisor: Prof. Guoshun Nan
   
 
