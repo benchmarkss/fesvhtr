@@ -12,3 +12,4 @@ I am a senior undergraduate student enrolled in the [joint program](http://www.e
 
 News
 ======
+* We released [FunQA Benchmark](https://funqa-benchmark.github.io/) and organized a [competition](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000).
