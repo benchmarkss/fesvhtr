@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc (Eng), Queen Mary University of London, 2024 (expected)
-* BBA, Beijing University of Posts and Telecommunication, 2024 (expected)
+* BBA, Beijing University of Posts and Telecommunications, 2024 (expected)
 
 Research experience
 ======
@@ -26,8 +26,8 @@ Research experience
 
 Work Experience
 ======
-* Spring 2023 - present: Full-stack Engineer (Internship)
-  * CPPEI (China Petroleum Planning and Engineering Institute)
+* Spring 2023 - Winter 2023: Full-stack Engineer (Internship)
+  * China Petroleum Planning and Engineering Institute, CNPC
 * Fall 2022 - Spring 2023: Extranet maintenance engineer (Internship)
   * Siemens Ltd. China
 
