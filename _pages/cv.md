@@ -16,12 +16,12 @@ Education
 
 Research experience
 ======
-* Autumn 2023 - present: Research Intern in MMLab@NTU, supervised by Prof. Ziwei Liu
-* Fall 2022 - present: Research Intern in BUPT Wireless Communications Center, supervised by Prof. Guoshun Nan
+* Mar 2023 - Present: Research Intern in MMLab@NTU, supervised by Prof. Ziwei Liu
+* Jul 2022 - Present: Research Intern in BUPT Wireless Communications Center, supervised by Prof. Guoshun Nan
   
 Work Experience
 ======
-* Spring 2023 - Winter 2023: Full-stack Engineer (Internship) in China Petroleum Planning and Engineering Institute, CNPC
-* Fall 2022 - Spring 2023: Extranet maintenance engineer (Internship) in Siemens Ltd. China
+* Apr 2023 - Dec 2023: Full-stack Engineer (Internship) in China Petroleum Planning and Engineering Institute, CNPC
+* Oct 2022 - Mar 2023: Extranet maintenance engineer (Internship) in Siemens Ltd. China
 
 
