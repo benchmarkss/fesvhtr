@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sicheng Zhang"
 title_separator          : "-"
-name                     : &name "Sicheng Zhang 张驷乘"
+name                     : &name "Sicheng Zhang"
 description              : &description "personal description"
 url                      : https://fesvhtr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sicheng Zhang"
+  name             : "Sicheng Zhang 张驷乘"
   avatar           : "zsc.png"
   bio              : "BUPT & QMUL"
   location         : "Beijing, China"
