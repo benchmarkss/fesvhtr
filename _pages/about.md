@@ -12,7 +12,7 @@ I am a senior undergraduate student enrolled in the [joint program](http://www.e
 
 News
 ======
-[24.02] 1 paper is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).
+[24.02] 1 paper is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).  
 [23.12] 1 paper is accepted to [AAAI 2024](https://aaai.org/aaai-conference/).  
 [23.07] We released [FunQA Benchmark](https://funqa-benchmark.github.io/) and organized a [competition](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000).
 
