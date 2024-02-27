@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly**  
-<span style="font-size: small;">Hang Du<sup>*</sup>, **Sicheng Zhang<sup>*</sup>**, Binzhu Xie<sup>*</sup>, Guoshun Nan, Jiayang Zhang, Junrui Xu, Hangyu Liu, Sicong Leng, Jiangming Liu, Hehe Fan, Dajiu Huang, Jing Feng, Linli Chen, Can Zhang, Xuhuan Li, Hao Zhang, Jianhang Chen, Qimei Cui, Xiaofeng Tao  
+<span style="font-size: small;">Hang Du<sup>*</sup>, **Sicheng Zhang<sup>*</sup>**, Binzhu Xie<sup>*</sup>, Guoshun Nan, Jiayang Zhang, Junrui Xu, Hangyu Liu, Sicong Leng, Jiangming Liu, Hehe Fan, Dajiu Huang, Jing Feng, Linli Chen, Can Zhang, Xuhuan Li, Hao Zhang, Jianhang Chen, Qimei Cui, Xiaofeng Tao.  
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024<span>
 
 [**FunQA: Towards Surprising Video Comprehension**](https://arxiv.org/abs/2306.14899)  
