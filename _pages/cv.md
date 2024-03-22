@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BSc (Eng), Queen Mary University of London, 2024 (expected)
-* BBA, Beijing University of Posts and Telecommunications, 2024 (expected)
+* BSc (Eng), Queen Mary University of London, 2020-2024
+* BBA, Beijing University of Posts and Telecommunications, 2020-2024
 
 Research experience
 ======
