@@ -12,16 +12,14 @@ redirect_from:
 Education
 ======
 * BSc (Eng), Queen Mary University of London, 2020-2024
-* BBA, Beijing University of Posts and Telecommunications, 2020-2024
+* B. Management, Beijing University of Posts and Telecommunications, 2020-2024
 
-Research experience
+Experience
 ======
+* Apr 2024 - Present: Resarch Inter in CityU, supervised by Prof. Zichao Lu
 * Mar 2023 - Present: Research Intern in MMLab@NTU, supervised by Prof. Ziwei Liu
-* Jul 2022 - Present: Research Intern in BUPT Wireless Communications Center, supervised by Prof. Guoshun Nan
-  
-Work Experience
-======
-* Apr 2023 - Dec 2023: Full-stack Engineer (Internship) in China Petroleum Planning and Engineering Institute, CNPC
-* Oct 2022 - Mar 2023: Extranet maintenance engineer (Internship) in Siemens Ltd. China
+* Jul 2022 - Dec 2023: Research Intern in BUPT WITS Lab, supervised by Prof. Guoshun Nan
+* Apr 2023 - Dec 2023: Engineer Intern in China Petroleum Planning and Engineering Institute, CNPC
+* Oct 2022 - Mar 2023: Engineer Intern in Siemens Ltd.
 
 
